@@ -1,0 +1,258 @@
+
+/* CSS from Joan Teruel - http://joanteruel.com */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	text-shadow: 1px 1px 1px #ddd;
+}
+
+
+/* HTML / Body
+-------------------------------------------------------*/
+html {
+	height: 100%;
+	overflow: auto;
+}
+body {
+	font: normal 12px "lucida grande", lucida, tahoma, helvetica, arial, sans-serif; 
+	color: #202020;
+	line-height: 19px;
+	background: white;
+}
+
+
+/* Anchors
+-------------------------------------------------------*/
+a, a:link, a:visited, a:active, a:hover {
+	outline: none; /* Removes dotted outline from Firefox anchors */
+	text-decoration: none;
+	color: #202020;
+	font-weight: bold;
+}
+a:hover {
+	color: #202020;
+	text-decoration: underline;
+}
+a:visited {
+	color: #202020;
+}
+
+
+/* Headings
+-------------------------------------------------------*/
+h2, h4, h5, h6 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	line-height: normal;
+	letter-spacing:-1px;
+}
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 320px;
+	line-height: 65px;
+	letter-spacing:-3px;
+	margin: 30px 0 0 100px;
+	display: block;
+	/*text-shadow: 1px 1px 1px #aaa;*/
+}
+h2 {
+	font-size: 30px;
+	margin: 0 0 20px;
+	text-shadow: 1px 1px 1px #aaa;
+	line-height: 30px;
+}
+h3 {
+	font-size: 18px;
+	width: 320px;
+	height: 165px;
+	margin: 1px 0 0 100px;
+	display: block;
+	text-shadow: 1px 1px 1px #aaa;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:;
+	line-height: normal;
+	letter-spacing:-1px;
+}
+
+/* Lists 
+-------------------------------------------------------*/
+li {
+	margin: 0 0 5px;
+}
+
+
+/* HTML / Body
+-------------------------------------------------------*/
+#page {
+	min-width: 980px;
+}
+
+/* Header
+-------------------------------------------------------*/
+#header {
+	width: 535px;
+	height: 1080px;
+	float: left;
+	background: url('images/joanteruel_black.jpg') 0 0 no-repeat;
+
+}
+
+/* Content
+-------------------------------------------------------*/
+
+#content {
+	min-height: 635px;
+	padding-left: 535px;
+}
+
+/* Image Replacements
+-------------------------------------------------------*/
+/* Standard image replacement */
+.imr {
+	display: block;
+
+
+}
+
+.emailme {
+	font-size: 20px;
+	margin: 15px 0 35px 0px;
+	display: block;
+	text-shadow: 1px 1px 1px #aaa;	
+}
+
+.z{
+  float:right;
+  font-size:.001px;
+  color:transparent;
+  display:inline-block;
+  width:0px;
+}
+
+
+
+/*** ABOUT ME ***/
+
+
+#content.about .column-wrapper {
+	padding: 30px 0 0 30px;
+}
+#content.about .column {	
+	margin-bottom: 50px;
+}
+#content.about .col1 {
+	margin-right: 50px;
+	width: 260px;
+}
+#content.about .col1 p {
+	color: #999;
+}
+
+/* Social links */
+#content.about .social ul {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 16px;
+	letter-spacing:-1px;		
+	list-style: none;
+	padding: 0;
+	margin: 0 0 -10px;
+}
+#content.about .social ul a {
+	display: block;
+	color: #ccc;
+	text-shadow: 0px 0px 0px #ddd;	
+}
+#content.about .social ul a:hover {
+	text-decoration: none;
+	color: #202020;
+	text-shadow: 1px 1px 1px #ddd;	
+}
+
+.footer p {
+	margin: 550px 0 15px;
+}
+
+
+/*** --------------------- Flickr --------------------- ***/
+
+
+.flickrbadge *{
+	margin:0;
+	padding:0;
+ 	list-style:none;
+	border:none;
+	}
+	
+.flickrbadge ul {
+    padding:0;
+	margin:0;
+	}
+	
+.flickrbadge{
+	width:250px;
+	padding:0 0 5px 0;
+	text-align:left;
+	margin:20px 0 0 0;
+    overflow:hidden;	
+	margin: 0 0 0 0;
+	float:left;
+	display:block;
+	}
+	
+.flickrbadge a{
+	display:block;
+	font-weight:normal;
+	text-decoration:none;
+	}
+	
+.flickrbadge a.flickrlink{
+	padding-top:.3em;
+	text-align:left;
+	margin-right:60px;
+	}
+	
+.flickritems{
+    padding-top:10px;
+    position:relative;
+	width:280px;
+	}
+	
+.flickritems li{
+    float:left;
+    padding:0 5px 5px 0;
+	}
+	
+.flickrbadge p {
+	text-align:left;
+	padding-right:13px;
+	font-size: 125%;
+	line-height: 1.4em;
+	font-weight:lighter;
+	margin: 10px 0 0 0;
+	width: 260px;
+	}
+	
+.flickrbadge p a {
+	color: #231f20;
+	width: 100%;
+	}
+	
+.flickritems li img{
+    display:block;
+	border: 1px solid #ebebeb;
+	padding: 1px;
+	}
