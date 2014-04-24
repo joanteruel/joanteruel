@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Jake Lodwick&rsquo;s Home Page
+# Jona Teruel&rsquo;s Home Page
 
 ![](http://jakelodwick.imgix.net/keezyvid.png?w=720&dpr=1.5&auto=true)
 
