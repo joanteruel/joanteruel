@@ -1,8 +1,6 @@
 name: Joan Teruel
 description: Joan Teruel's Home Page
-author: Joan Teruel
-author_email: joanrafel at gmail
-category_dir: /
 url: http://joanteruel.github.io/joanteruel
 markdown: redcarpet
-permalink: /posts/:year-:month-:day-:title.html
+pygments: true
+
