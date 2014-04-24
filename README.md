@@ -1,2 +1,2 @@
-joanteruel
+Joan Teruel's Home Page
 ==========
