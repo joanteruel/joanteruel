@@ -8,7 +8,7 @@ title: Home
 
 ## Bio
 
-My full name is Jacob Sparks Lodwick. I am a serial entrepreneur &amp; my current focus is [Keezy](//keezy.net/), a member of the [Elepath](//elepath.com/) family. I was born and grew up in Baltimore, MD. I live in Brooklyn.
+My name is Joan Teruel. I am a mechanical engineer &amp; my current focus is [Keezy](//keezy.net/), a member of the [Elepath](//elepath.com/) family. I was born and grew up in Baltimore, MD. I live in Brooklyn.
 
 ## Stuff I Wrote
 
