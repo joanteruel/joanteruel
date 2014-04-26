@@ -22,7 +22,7 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 
 ![][9]
 
-By [Justin Ouellette][10]. January, 2014.
+![][10]
 
 ![][11]
 
@@ -38,35 +38,20 @@ Nude self-portrait in tiny chair, 2010.
 
 ![][14]
 
-Presenting my self-management system, “Standards”, in 2009. Photo by Ronen Verbit. Video [here][15].
+Presenting my self-management system, “Standards”, in 2009. Photo by Ronen Verbit. Video.
+
+![][15]
 
 ![][16]
 
-Working at Vimeo in 2007. Photo by [Josh Mohrer][17].
+Working at Vimeo in 2007. Photo by
+
+![][17]
 
 ![][18]
 
-Talking on the phone in 2005. [Photo by Ricky Van Veen][19].
+Talking on the phone in 2005.
 
-![][20]
-
-Listening to music in 2004. [Photo by Eric Lodwick][21].
-
-![][22]
-
-2002 I think.
-
-![][23]
-
-A cool attitude sometime in 1991.
-
-![][24]
-
-1990 I think.
-
-![][25]
-
-1983\. [Photo by my mom][26].
 
    [1]: /joanteruel/images/me.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
@@ -76,21 +61,13 @@ A cool attitude sometime in 1991.
    [6]: https://www.flickr.com/photos/lerion
    [7]: https://www.facebook.com/joanrafel.teruel
    [8]: http://www.linkedin.com/in/joanteruel
-   [9]: //jakelodwick.imgix.net/jstn.png?w=720&amp;dpr=1.5
-   [10]: http://jstn.cc/post/73956090802
-   [11]: //jakelodwick.imgix.net/skill.gif?w=720
-   [12]: //jakelodwick.imgix.net/wedding.jpg?w=720
-   [13]: //jakelodwick.imgix.net/seated.png?w=720
-   [14]: //jakelodwick.imgix.net/qsjake.jpg?w=720
-   [15]: https://vimeo.com/8303782
-   [16]: //jakelodwick.imgix.net/trawin.jpg?w=720
-   [17]: http://www.flickr.com/photos/90034839@N00/1588855971/
-   [18]: //jakelodwick.imgix.net/clamshell.jpg?w=720
-   [19]: http://www.flickr.com/photos/rickyv/5676694
-   [20]: //jakelodwick.imgix.net/2004.jpg?w=720
-   [21]: http://www.flickr.com/photos/ericlodwick/2706580
-   [22]: //jakelodwick.imgix.net/hook_wall.jpg?w=720
-   [23]: //jakelodwick.imgix.net/1991.jpg?w=720
-   [24]: //jakelodwick.imgix.net/gafasrojas.jpg?w=720
-   [25]: //jakelodwick.imgix.net/bball.jpg?w=720
-   [26]: http://www.flickr.com/photos/anugent/11692123/
+   [9]: https://farm4.staticflickr.com/3694/13887135686_3141d3d1cd_c.jpg
+   [10]: https://farm3.staticflickr.com/2823/11388836886_dd3d54f038_c.jpg
+   [11]: https://farm7.staticflickr.com/6197/6088681542_00dac5deeb_b.jpg
+   [12]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
+   [13]: https://farm7.staticflickr.com/6209/6087261324_1f90cf43f3_b.jpg
+   [14]: https://farm7.staticflickr.com/6185/6087866631_e24e66fac8_b.jpg
+   [15]: https://farm7.staticflickr.com/6062/6087879257_fc067b80d8_b.jpg
+   [16]: https://farm6.staticflickr.com/5173/5421490001_3ddc760bea_b.jpg
+   [17]: https://farm9.staticflickr.com/8503/8255724864_c07fbcce1d_c.jpg
+   [18]: https://farm7.staticflickr.com/6078/6087873181_3c32d46ee4_b.jpg
