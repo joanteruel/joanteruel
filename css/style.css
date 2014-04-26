@@ -16,7 +16,6 @@ article {
 
 h1, h2 {
     font-weight: bold;
-	margin-bottom: 0;
 }
 
 h1 {
@@ -26,6 +25,7 @@ h1 {
 
 h2 {
 	margin-top: 1em;
+	margin-bottom: 1em;		
     font-size: 36px;
 }
 
