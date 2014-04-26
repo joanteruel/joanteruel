@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Joan Teruel
 ---
 # Joan Teruel&rsquo;s Home Page
 
