@@ -10,25 +10,13 @@ title: Home
 
 My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I was born and grew up in [Barcelona][2].
 
-## Stuff I Wrote
-
-[The Shit To Get](/tstg.html) (things worth buying)
-
-[An acquisition is always a failure](http://pando.com/2013/04/02/an-acquisition-is-always-a-failure/) (My thoughts on selling companies. I didn't write the headline.)
-
-[Tulum Tips][4] (travel tips for a beach town in Mexico)
-
-## Productivity Tools
-
-I've build two productivity tools which I use constantly and update from time to time. There are [NowDoThis][5], a task manager that focuses you on one thing at a time, and [Standards][6], a system for managing your habits on a weekly basis.
-
 ## Social Media Links
 
-1. [Blog][]: Personal blog and media content of [Jaume Teruel][] and me.
-1. [Twitter][7]: A global chat room where every message is limited to 140 characters.
-1. [Flickr][8]: A photo hosting website.
-1. [Facebook][]: An online social network service.
-1. [Linkedin][]: A business-oriented social networking service.
+1. [Blog][3]: Personal blog and media content of [Jaume Teruel][] and me.
+1. [Twitter][4]: A global chat room where every message is limited to 140 characters.
+1. [Flickr][5]: A photo hosting website.
+1. [Facebook][6]: An online social network service.
+1. [Linkedin][7]: A business-oriented social networking service.
 
 ## More Pictures of me
 
@@ -82,11 +70,11 @@ A cool attitude sometime in 1991.
 
    [1]: /joanteruel/images/me.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
-   [3]: http://kimathomas.ca/
-   [4]: /tulum.html
-   [5]: http://nowdothis.com
-   [6]: http://wehavestandards.com/
-   [7]: https://twitter.com/jakelodwick
+   [3]: http://lerion.com
+   [4]: http://twitter.com/joan_teruel
+   [5]: https://www.flickr.com/photos/lerion
+   [6]: https://www.facebook.com/joanrafel.teruel
+   [7]: http://www.linkedin.com/in/joanteruel
    [8]: http://jakelodwick.tumblr.com/
    [9]: //jakelodwick.imgix.net/jstn.png?w=720&amp;dpr=1.5
    [10]: http://jstn.cc/post/73956090802
