@@ -4,11 +4,11 @@ title: Home
 ---
 # Joan Teruel&rsquo;s Home Page
 
-![](/images/joanteruel_logo.jpg)
+![][1]
 
 ## Bio
 
-My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I was born and grew up in [Barcelona][1].
+My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I was born and grew up in [Barcelona][2].
 
 ## Stuff I Wrote
 
@@ -80,8 +80,8 @@ A cool attitude sometime in 1991.
 
 1983\. [Photo by my mom][26].
 
-   [1]: http://en.wikipedia.org/wiki/Barcelona
-   [2]: http://elepath.com/
+   [1]: /images/me.jpg
+   [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://kimathomas.ca/
    [4]: /tulum.html
    [5]: http://nowdothis.com
