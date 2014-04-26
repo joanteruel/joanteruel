@@ -22,35 +22,43 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 
 ![][9]
 
+London Head of the River Race 2014.
+
 ![][10]
+
+Taking Sachertorte in Salzburg, 2013.
 
 ![][11]
 
-Exercising in Berlin. July, 2013.
+Stasi Museum in Berlin. December, 2012.
 
 ![][12]
 
-Marrying Robin Cantrell. January, 2012.
+Bubbles in Vancouver, 2011.
 
 ![][13]
 
-Nude self-portrait in tiny chair, 2010.
+Yosemite, 2011.
 
 ![][14]
 
-Presenting my self-management system, “Standards”, in 2009. Photo by Ronen Verbit. Video.
+Jumping in the Death Valley, 2011.
 
 ![][15]
 
+Relaxing moment in Grand Canyon, 2011.
+
 ![][16]
 
-Working at Vimeo in 2007. Photo by
+Mountain Bike in Serralada de la Marina, February 2010.
 
 ![][17]
 
+Lost in Times Square, NY 2009.
+
 ![][18]
 
-Talking on the phone in 2005.
+Celebrating the first anniversary with [Jaume Teruel][4].
 
 
    [1]: /joanteruel/images/me.jpg
@@ -63,11 +71,11 @@ Talking on the phone in 2005.
    [8]: http://www.linkedin.com/in/joanteruel
    [9]: https://farm4.staticflickr.com/3694/13887135686_3141d3d1cd_c.jpg
    [10]: https://farm3.staticflickr.com/2823/11388836886_dd3d54f038_c.jpg
-   [11]: https://farm7.staticflickr.com/6197/6088681542_00dac5deeb_b.jpg
-   [12]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
-   [13]: https://farm7.staticflickr.com/6209/6087261324_1f90cf43f3_b.jpg
+   [12]: https://farm7.staticflickr.com/6197/6088681542_00dac5deeb_b.jpg
+   [17]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
+   [15]: https://farm7.staticflickr.com/6209/6087261324_1f90cf43f3_b.jpg
    [14]: https://farm7.staticflickr.com/6185/6087866631_e24e66fac8_b.jpg
-   [15]: https://farm7.staticflickr.com/6062/6087879257_fc067b80d8_b.jpg
+   [13]: https://farm7.staticflickr.com/6062/6087879257_fc067b80d8_b.jpg
    [16]: https://farm6.staticflickr.com/5173/5421490001_3ddc760bea_b.jpg
-   [17]: https://farm9.staticflickr.com/8503/8255724864_c07fbcce1d_c.jpg
+   [11]: https://farm9.staticflickr.com/8503/8255724864_c07fbcce1d_c.jpg
    [18]: https://farm7.staticflickr.com/6078/6087873181_3c32d46ee4_b.jpg
