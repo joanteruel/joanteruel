@@ -80,7 +80,7 @@ A cool attitude sometime in 1991.
 
 1983\. [Photo by my mom][26].
 
-   [1]: /images/me.jpg
+   [1]: /joanteruel/images/me.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://kimathomas.ca/
    [4]: /tulum.html
