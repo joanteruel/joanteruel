@@ -22,43 +22,33 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 ## More Pictures of me
 
 ![][9]
-
 London Head of the River Race 2014.
 
 ![][10]
-
 Taking Sachertorte in Salzburg. Austria, 2013.
 
 ![][11]
-
 Stasi Museum in Berlin. December, 2012.
 
 ![][12]
-
 Bubbles in Vancouver, 2011.
 
 ![][13]
-
 Yosemite, 2011.
 
 ![][14]
-
 Jumping in the Death Valley, 2011.
 
 ![][15]
-
 Relaxing moment in Grand Canyon, 2011.
 
 ![][16]
-
 Mountain Bike in Serralada de la Marina, February 2010.
 
 ![][17]
-
 Lost in Times Square, NY 2009.
 
 ![][18]
-
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
