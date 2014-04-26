@@ -12,11 +12,11 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 
 ## Social Media Links
 
-1. [Blog][3]: Personal blog and media content of [Jaume Teruel][] and me.
-1. [Twitter][4]: A global chat room where every message is limited to 140 characters.
-1. [Flickr][5]: A photo hosting website.
-1. [Facebook][6]: An online social network service.
-1. [Linkedin][7]: A business-oriented social networking service.
+1. [Blog][3]: Personal blog and media content of [Jaume Teruel][4] and me.
+1. [Twitter][5]: A global chat room where every message is limited to 140 characters.
+1. [Flickr][6]: A photo hosting website.
+1. [Facebook][7]: An online social network service.
+1. [Linkedin][8]: A business-oriented social networking service.
 
 ## More Pictures of me
 
@@ -71,11 +71,11 @@ A cool attitude sometime in 1991.
    [1]: /joanteruel/images/me.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://lerion.com
-   [4]: http://twitter.com/joan_teruel
-   [5]: https://www.flickr.com/photos/lerion
-   [6]: https://www.facebook.com/joanrafel.teruel
-   [7]: http://www.linkedin.com/in/joanteruel
-   [8]: http://jakelodwick.tumblr.com/
+   [4]: http://jaumeteruel.com 
+   [5]: http://twitter.com/joan_teruel
+   [6]: https://www.flickr.com/photos/lerion
+   [7]: https://www.facebook.com/joanrafel.teruel
+   [8]: http://www.linkedin.com/in/joanteruel
    [9]: //jakelodwick.imgix.net/jstn.png?w=720&amp;dpr=1.5
    [10]: http://jstn.cc/post/73956090802
    [11]: //jakelodwick.imgix.net/skill.gif?w=720
