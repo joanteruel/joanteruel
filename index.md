@@ -62,7 +62,7 @@ Lost in Times Square, NY 2009.
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
-   [1]: /joanteruel/images/me.jpg
+   [1]: https://farm4.staticflickr.com/3808/9980030045_50858e8b88_c.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://lerion.com
    [4]: http://jaumeteruel.com 
