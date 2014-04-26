@@ -58,7 +58,7 @@ Lost in Times Square, NY 2009.
 
 ![][18]
 
-Celebrating the first anniversary with [Jaume Teruel][4].
+Celebrating my first birthday with [Jaume Teruel][4].
 
 
    [1]: /joanteruel/images/me.jpg
@@ -78,4 +78,4 @@ Celebrating the first anniversary with [Jaume Teruel][4].
    [13]: https://farm7.staticflickr.com/6062/6087879257_fc067b80d8_b.jpg
    [16]: https://farm6.staticflickr.com/5173/5421490001_3ddc760bea_b.jpg
    [11]: https://farm9.staticflickr.com/8503/8255724864_c07fbcce1d_c.jpg
-   [18]: https://farm7.staticflickr.com/6078/6087873181_3c32d46ee4_b.jpg
+   [18]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
