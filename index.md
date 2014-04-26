@@ -5,6 +5,7 @@ title: Home
 # Joan Teruel&rsquo;s Home Page
 
 ![][1]
+Walk around Boston, September 2013.
 
 ## Bio
 
