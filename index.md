@@ -58,7 +58,7 @@ Lost in Times Square, NY 2009.
 
 ![][18]
 
-Celebrating my first birthday with [Jaume Teruel][4].
+Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
    [1]: /joanteruel/images/me.jpg
@@ -71,11 +71,11 @@ Celebrating my first birthday with [Jaume Teruel][4].
    [8]: http://www.linkedin.com/in/joanteruel
    [9]: https://farm4.staticflickr.com/3694/13887135686_3141d3d1cd_c.jpg
    [10]: https://farm3.staticflickr.com/2823/11388836886_dd3d54f038_c.jpg
-   [12]: https://farm7.staticflickr.com/6197/6088681542_00dac5deeb_b.jpg
-   [17]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
-   [15]: https://farm7.staticflickr.com/6209/6087261324_1f90cf43f3_b.jpg
-   [14]: https://farm7.staticflickr.com/6185/6087866631_e24e66fac8_b.jpg
-   [13]: https://farm7.staticflickr.com/6062/6087879257_fc067b80d8_b.jpg
-   [16]: https://farm6.staticflickr.com/5173/5421490001_3ddc760bea_b.jpg
    [11]: https://farm9.staticflickr.com/8503/8255724864_c07fbcce1d_c.jpg
+   [12]: https://farm7.staticflickr.com/6197/6088681542_00dac5deeb_b.jpg
+   [13]: https://farm7.staticflickr.com/6062/6087879257_fc067b80d8_b.jpg
+   [14]: https://farm7.staticflickr.com/6185/6087866631_e24e66fac8_b.jpg
+   [15]: https://farm7.staticflickr.com/6209/6087261324_1f90cf43f3_b.jpg
+   [16]: https://farm6.staticflickr.com/5173/5421490001_3ddc760bea_b.jpg
+   [17]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
    [18]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
