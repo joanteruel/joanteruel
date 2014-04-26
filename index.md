@@ -4,11 +4,11 @@ title: Home
 ---
 # Joan Teruel&rsquo;s Home Page
 
-![](http://jakelodwick.imgix.net/keezyvid.png?w=720&dpr=1.5&auto=true)
+![](/images/joanteruel_logo.jpg)
 
 ## Bio
 
-My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I was born and grew up in Barcelona.
+My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I was born and grew up in [Barcelona][1].
 
 ## Stuff I Wrote
 
@@ -24,9 +24,11 @@ I've build two productivity tools which I use constantly and update from time to
 
 ## Social Media Links
 
+1. [Blog][]: Personal blog and media content of [Jaume Teruel][] and me.
 1. [Twitter][7]: A global chat room where every message is limited to 140 characters.
-1. [Tumblr][8]: A “tumbling log” of random media.
-1. [Wikipedia](http://en.wikipedia.org/wiki/Jake_Lodwick): A collaborate encyclopedia.
+1. [Flickr][8]: A photo hosting website.
+1. [Facebook][]: An online social network service.
+1. [Linkedin][]: A business-oriented social networking service.
 
 ## More Pictures of me
 
@@ -78,11 +80,11 @@ A cool attitude sometime in 1991.
 
 1983\. [Photo by my mom][26].
 
-   [1]: //jakelodwick.imgix.net/kim.png?w=720&amp;dpr=1.5&amp;auto=true
+   [1]: http://en.wikipedia.org/wiki/Barcelona
    [2]: http://elepath.com/
    [3]: http://kimathomas.ca/
    [4]: /tulum.html
-   [5]: http://nowdothis.com/
+   [5]: http://nowdothis.com
    [6]: http://wehavestandards.com/
    [7]: https://twitter.com/jakelodwick
    [8]: http://jakelodwick.tumblr.com/
