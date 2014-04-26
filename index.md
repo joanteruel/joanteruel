@@ -23,7 +23,8 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 
 ![][9]
 London Head of the River Race 2014.
-
+  
+  
 ![][10]
 Taking Sachertorte in Salzburg. Austria, 2013.
 
