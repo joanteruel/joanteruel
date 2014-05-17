@@ -36,9 +36,6 @@ Bubbles in Vancouver, 2011.
 ![][13]
 Yosemite, 2011.
 
-![][14]
-Jumping in the Death Valley, 2011.
-
 ![][15]
 Relaxing moment in Grand Canyon, 2011.
 
