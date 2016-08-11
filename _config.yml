@@ -1,5 +1,5 @@
 name: Joan Teruel
 description: Joan Teruel's Home Page
 url: http://joanteruel.github.io/joanteruel
-markdown: kramdown
+markdown: redcarpet
 pygments: true
