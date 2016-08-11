@@ -5,7 +5,6 @@ title: Joan Teruel
 # Joan Teruel
 
 ![][1]
-During the 'Campionat de Catalunya' Rowing Race 2015.
 
 ## Bio
 
@@ -21,11 +20,14 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 
 ## More Pictures of me
 
+![][20]
+During the 'Campionat de Catalunya' Rowing Race 2015.
+
 ![][19]
 Riding around Stockholm, 2014.
 
 ![][9]
-London Head of the River Race 2014.
+London Head of the River Race, 2014.
 
 ![][11]
 Stasi Museum in Berlin. December, 2012.
@@ -40,7 +42,7 @@ Lost in Times Square, NY 2009.
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
-   [1]: https://c5.staticflickr.com/9/8476/28294335244_7f3b3a858b_c.jpg
+   [1]: 
    [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://lerion.com
    [4]: http://jaumeteruel.com 
@@ -59,3 +61,4 @@ Celebrating my first birthday with [Jaume Teruel][4], December 1980.
    [17]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
    [18]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
    [19]: https://c7.staticflickr.com/4/3911/14845825518_e392d80f67_c.jpg   
+   [20]: https://c5.staticflickr.com/9/8476/28294335244_7f3b3a858b_c.jpg
