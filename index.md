@@ -10,7 +10,7 @@ title: Joan Teruel
 
 My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Universitat Politècnica de Catalunya and Executive MBA at Universitat de Barcelona. I was born and grew up in [Barcelona][2].
 
-## Social Media Links
+## Socmed
 
 1. [Blog][3]: Personal blog and media content of [Jaume Teruel][4] and me.
 1. [Twitter][5]: A global chat room where every message is limited to 140 characters.
@@ -18,7 +18,7 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 1. [Facebook][7]: An online social network service.
 1. [Linkedin][8]: A business-oriented social networking service.
 
-## More Pictures of me
+## Pictures
 
 ![][20]
 During the 'Campionat de Catalunya' Rowing Race 2015.
