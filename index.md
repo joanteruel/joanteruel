@@ -24,9 +24,6 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 ![][9]
 London Head of the River Race 2014.
 
-![][10]
-Taking Sachertorte in Salzburg. Austria, 2013.
-
 ![][11]
 Stasi Museum in Berlin. December, 2012.
 
@@ -39,9 +36,6 @@ Yosemite, 2011.
 ![][15]
 Relaxing moment in Grand Canyon, 2011.
 
-![][16]
-Mountain Bike in Serralada de la Marina, February 2010.
-
 ![][17]
 Lost in Times Square, NY 2009.
 
@@ -49,7 +43,7 @@ Lost in Times Square, NY 2009.
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
-   [1]: https://c7.staticflickr.com/4/3911/14845825518_828e5579b8_c.jpg
+   [1]: https://c7.staticflickr.com/4/3911/14845825518_e392d80f67_c.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://lerion.com
    [4]: http://jaumeteruel.com 
