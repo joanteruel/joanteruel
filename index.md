@@ -21,14 +21,14 @@ My name is Joan Teruel. I am MSc in Industrial / Mechanical Engineering at Unive
 
 ## More Pictures of me
 
+![][19]
+Riding around Stockholm, 2014.
+
 ![][9]
 London Head of the River Race 2014.
 
 ![][11]
 Stasi Museum in Berlin. December, 2012.
-
-![][12]
-Bubbles in Vancouver, 2011.
 
 ![][13]
 Yosemite, 2011.
@@ -61,3 +61,4 @@ Celebrating my first birthday with [Jaume Teruel][4], December 1980.
    [16]: https://farm6.staticflickr.com/5173/5421490001_3ddc760bea_b.jpg
    [17]: https://farm4.staticflickr.com/3377/3451671473_225acd06ae_b.jpg
    [18]: https://farm6.staticflickr.com/5331/14021790985_b8667f40c7_c.jpg
+   [19]: https://c7.staticflickr.com/4/3911/14845825518_e392d80f67_c.jpg   
