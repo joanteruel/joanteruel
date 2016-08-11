@@ -42,7 +42,7 @@ Lost in Times Square, NY 2009.
 Celebrating my first birthday with [Jaume Teruel][5], December 1980.
 
 
-   [1]: /images/rem.jpg
+   [1]: /images/me.jpg
    [2]: http://en.wikipedia.org/wiki/Badalona
    [3]: http://en.wikipedia.org/wiki/Barcelona
    [4]: http://lerion.com
