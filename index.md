@@ -2,7 +2,7 @@
 layout: default
 title: Joan Teruel
 ---
-# Joan Teruel&rsquo;s Home Page
+# Joan Teruel
 
 ![][1]
 Walking around Boston, September 2013.
