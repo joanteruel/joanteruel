@@ -39,7 +39,7 @@ Yosemite, CA 2011.
 Lost in Times Square, NY 2009.
 
 ![][10]
-Celebrating my first birthday with [Jaume Teruel][4], December 1980.
+Celebrating my first birthday with [Jaume Teruel][5], December 1980.
 
 
    [1]: 
