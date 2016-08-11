@@ -4,8 +4,7 @@ title: Joan Teruel
 ---
 # Joan Teruel
 
-![][1]
-Walking around Boston, September 2013.
+![][19]
 
 ## Bio
 
