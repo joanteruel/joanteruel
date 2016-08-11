@@ -2,7 +2,7 @@
 layout: default
 title: Joan Teruel
 ---
-# Joan Teruel
+# Joan Teruel. This is a test.
 
 ![][1]
 
