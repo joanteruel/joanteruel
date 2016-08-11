@@ -31,10 +31,7 @@ London Head of the River Race 2014.
 Stasi Museum in Berlin. December, 2012.
 
 ![][13]
-Yosemite, 2011.
-
-![][15]
-Relaxing moment in Grand Canyon, 2011.
+Yosemite, CA 2011.
 
 ![][17]
 Lost in Times Square, NY 2009.
