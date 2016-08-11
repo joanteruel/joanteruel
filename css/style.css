@@ -1,3 +1,7 @@
+html {
+    -webkit-text-size-adjust: none; ∫
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -46,10 +50,4 @@ img {
 li {
   font-size: 20px;
   line-height: 1.6em;
-}
-
-.vine-embed {
-    margin-bottom: 1em;
-    display: block;
-    margin: 0 auto;
 }
