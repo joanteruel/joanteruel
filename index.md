@@ -4,7 +4,8 @@ title: Joan Teruel
 ---
 # Joan Teruel
 
-![][19]
+![][1]
+During the 'Campionat de Catalunya' Rowing Race 2015.
 
 ## Bio
 
@@ -42,7 +43,7 @@ Lost in Times Square, NY 2009.
 Celebrating my first birthday with [Jaume Teruel][4], December 1980.
 
 
-   [1]: https://c7.staticflickr.com/4/3911/14845825518_e392d80f67_c.jpg
+   [1]: https://c5.staticflickr.com/9/8476/28294335244_7f3b3a858b_c.jpg
    [2]: http://en.wikipedia.org/wiki/Barcelona
    [3]: http://lerion.com
    [4]: http://jaumeteruel.com 
