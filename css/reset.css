@@ -40,5 +40,3 @@ table {
     border-collapse: collapse;
     border-spacing: 0
 }
-
-/** { outline: 1px dotted red } * * { outline: 1px dotted green } * * * { outline: 1px dotted orange } * * * * { outline: 1px dotted blue } * * * * * { outline: 1px solid fuchsia } * * * * * * { outline: 1px solid teal } * * * * * * * { outline: 1px solid indigo } * * * * * * * * { outline: 1px solid brown }*/
