@@ -12,13 +12,13 @@ Besides my passion for rowing, I am MSc in Industrial / Mechanical Engineering a
 
 ## # Social Media
 
-1. [Blog][4]: Personal blog and media content of [Jaume Teruel][5] and me.
+1. [Linkedin][9]: A business-oriented social networking service.
 1. [Flickr][7]: A photo hosting website.
 1. [Vimeo][10]: A hosting website for personal videos.
-1. [Linkedin][9]: A business-oriented social networking service.
 
 
-   [1]: /images/JT_Avatar.jpg
+
+   [1]: /images/joanteruel_square.png
    [2]: http://en.wikipedia.org/wiki/Badalona
    [3]: http://en.wikipedia.org/wiki/Barcelona
    [4]: http://lerion.com
