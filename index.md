@@ -3,7 +3,6 @@ layout: default
 title: Joan Teruel
 ---
 # Joan Teruel
-
 ![][1]
 
 ## # Bio
