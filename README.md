@@ -1,2 +1,3 @@
-Joan Teruel's Home Page
-==========
+jaumeteruel
+======
+Personal Web Site.

@@ -15,6 +15,7 @@ Besides my passion for rowing, I am MSc in Industrial / Mechanical Engineering a
 1. [Vimeo][10]: A hosting website for personal videos.
 
 
+
    [1]: /images/joanteruel_square.png
    [2]: http://en.wikipedia.org/wiki/Badalona
    [3]: http://en.wikipedia.org/wiki/Barcelona
