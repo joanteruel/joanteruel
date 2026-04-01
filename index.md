@@ -13,7 +13,6 @@ Besides my passion for rowing and cycling, I am MSc in Industrial / Mechanical E
 ## # Social Media
 
 1. [Linkedin][9]: A business-oriented social networking service.
-1. [Flickr][7]: A photo hosting website.
 1. [Vimeo][10]: A hosting website for personal videos.
 
 
@@ -22,6 +21,5 @@ Besides my passion for rowing and cycling, I am MSc in Industrial / Mechanical E
    [3]: http://en.wikipedia.org/wiki/Barcelona
    [4]: http://lerion.com
    [5]: http://jaumeteruel.com
-   [7]: https://www.flickr.com/photos/lerion
    [9]: http://www.linkedin.com/in/joanteruel
    [10]: https://vimeo.com/lerion
